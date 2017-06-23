@@ -1,2 +1,17 @@
 [
+  {
+    "repository": "TeamHorizon/android_kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/android_device_motorola_addison",
+    "target_path": "device/motorola/addison",
+    "branch": "n" 
+  }
 ]
